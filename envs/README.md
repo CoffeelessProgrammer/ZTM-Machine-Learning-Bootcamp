@@ -1,6 +1,6 @@
 # Environments
 
-## DataScience101
+## 1. DataScience101
 
 Environment location: ~\miniconda3\envs\DataScience101
 
