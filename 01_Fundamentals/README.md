@@ -1,6 +1,7 @@
 # Fundamentals
 
 ## Resources
+- [Colaboratory](https://colab.research.google.com/)
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
 - [Machine Learning Playground](https://ml-playground.com/)
 
